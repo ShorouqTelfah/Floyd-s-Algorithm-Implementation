@@ -1,4 +1,4 @@
-# Mid_Module-Assignment
+# Mid_Module_Assignment
 This repository to submit my work on Floyd's algorithm.  
                                         Floyd's Algorithm Implementation
 
@@ -9,7 +9,7 @@ To use this project, you must install Python on your system. Clone the repositor
 ```bash
 git clone https://github.com/your_username/floyds-algorithm.git
 Navigate to the project directory:
-cd Mid_Module-Assignment
+cd Mid_Module_Assignment
 
 •	Usage
 You can use both the iterative and recursive implementations of Floyd's algorithm by importing the corresponding functions from the mid_module_assignment module.
