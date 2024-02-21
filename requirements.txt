@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 pytest>=6.2.5
 pytest-benchmark>=3.4.1
 coverage>==7.4.1
+=======
+pytest>=6.2.5
+pytest-benchmark>=3.4.1
+coverage>==7.4.1
+>>>>>>> 7a2f10d11a59d969dae943c3d7fa60751c37b764
