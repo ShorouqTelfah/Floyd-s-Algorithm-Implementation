@@ -1,7 +1,7 @@
 # Mid_Module_Assignment
 This repository to submit my work on Floyd's algorithm.  
 
-                                                                                    Floyd's Algorithm Implementation
+                                              Floyd's Algorithm Implementation
 
 This repository contains the work to implement both the recursive and iterative cods for the Floyd’s algorithm to find the shortest paths between all pairs of vertices in a given graph:
 •	Input graph (adjacency matrix)
