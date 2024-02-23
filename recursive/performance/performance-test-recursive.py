@@ -7,7 +7,7 @@ Created on Tue Feb 20 17:27:48 2024
 
 import timeit
 import sys
-import coverage
+
 NO_PATH = sys.maxsize
 graph = [
         [0, 7, NO_PATH, 8],
