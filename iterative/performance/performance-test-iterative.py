@@ -24,7 +24,8 @@ def floyd_algorithm(distance):
         if start_node == end_node:
             distance[start_node][end_node] = 0
             continue
-        distance[start_node][end_node] = min(distance[start_node][end_node], distance[start_node][intermediate] + distance[intermediate][end_node] )
+        distance[start_node][end_node] = min(distance[start_node][end_node], 
+                                             distance[start_node][intermediate] + distance[intermediate][end_node])
     print(distance)
 
 
